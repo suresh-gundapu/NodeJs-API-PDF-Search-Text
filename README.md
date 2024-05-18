@@ -3,6 +3,7 @@
 Start your server and test the endpoints.
 
 run command:
+npm i
 node index.js
 
 Upload a PDF: Use a tool like Postman or cURL to upload a PDF to the /upload endpoint.
